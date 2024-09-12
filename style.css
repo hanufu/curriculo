@@ -39,7 +39,10 @@ header > img  {
 main {
     padding: 2rem;
 }
-
+.sub{
+    font-size: 2rem;
+    padding-bottom: 1.8rem;
+}
 h1 {
     color: #1a1a1a;
 }
